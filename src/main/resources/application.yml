@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://diallo:Passer123@cluster0.dh8zvpu.mongodb.net/patient_management?retryWrites=true&w=majority&appName=Cluster0
+      database: patient_management
+
+server:
+  port: 8080
